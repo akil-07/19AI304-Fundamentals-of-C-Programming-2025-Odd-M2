@@ -15,7 +15,7 @@
   
   The program should display the average marks up to two decimal places and the corresponding grade. 
   
-# Date : 
+# Date : 28/12/2025
 # Aim:
  To build a C program that receives inputs for a student’s marks in three subjects, calculates the average, and determines the grade using nested if-else statements with safe floating-point comparisons.
 # Algorithm:
@@ -56,7 +56,11 @@
 ### Step 11:
   Stop
 # Program:
+<img width="784" height="548" alt="image" src="https://github.com/user-attachments/assets/a2eaa9bf-32a7-4c13-9455-6a3f274f28b6" />
+
 # Output:
+<img width="352" height="248" alt="image" src="https://github.com/user-attachments/assets/d0e90407-1260-4eae-9423-9eacb744ddda" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -64,7 +68,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-2- Module 2 - FoC
 # Ex.No:7
   Develop a C program to display the multiplication table of a given number (15) up to 10.
-# Date : 
+# Date : 28/12/2025
 # Aim:
  To develop a C program that prints the multiplication table of the number 15 up to 10 using a for loop.
 # Algorithm:
@@ -88,7 +92,11 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 
 # Program:
+<img width="536" height="272" alt="image" src="https://github.com/user-attachments/assets/a28e02df-7e70-4e92-a930-eabb567a8edb" />
+
 # Output:
+<img width="213" height="310" alt="image" src="https://github.com/user-attachments/assets/9592c32d-3346-4f0c-91a6-d752a6da8b92" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -131,7 +139,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7:   
   Stop
 # Program:
+<img width="460" height="604" alt="image" src="https://github.com/user-attachments/assets/8d74b5d5-bcfc-4e92-a448-d83163a4c43d" />
+
 # Output:
+<img width="300" height="188" alt="image" src="https://github.com/user-attachments/assets/70c6977c-3b84-454b-92c5-869520b36211" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -147,7 +159,7 @@ Thus, the program was implemented and executed successfully, and the required ou
  4   2  
  54321
  ```
-# Date : 
+# Date : 28/12/2025
 # Aim:
  To build a C program that prints the required numeric pattern for a given value of n using nested loops.
 # Algorithm:
@@ -179,7 +191,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+<img width="373" height="541" alt="image" src="https://github.com/user-attachments/assets/7625f3eb-05b5-4ad8-91fc-d4312427a72e" />
+
 # Output:
+<img width="299" height="209" alt="image" src="https://github.com/user-attachments/assets/f71a3339-0fbe-4f06-a20f-deb775d222ec" />
+
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -204,6 +220,7 @@ Thus, the program was implemented and executed successfully, and the required ou
  2  3  4  5  6  7  0  7  6  5  4  3  2
  
  1  2  3  4  5  6  7  0  7  6  5  4  3  2  1
+ date:28/12/2025
 
 # Aim: 
   To formulate a C program to print a symmetric numeric pattern in which each row contains an increasing sequence of numbers from the row value up to 7, followed by 0 in the center, and then a decreasing sequence of numbers back to the row value.
@@ -232,6 +249,12 @@ Thus, the program was implemented and executed successfully, and the required ou
   Decrease i by 1 and go back to Step 6.
 ### Step 8:
   Stop
+  program:
+  <img width="466" height="519" alt="image" src="https://github.com/user-attachments/assets/8f6dcfaf-7a56-4d31-8a94-a8fa9a8fa3e2" />
+  output:
+  <img width="415" height="306" alt="image" src="https://github.com/user-attachments/assets/118a9708-75f7-45c1-87e3-7f791e3f2735" />
+
+
 # Result:
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
